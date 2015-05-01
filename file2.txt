@@ -2,3 +2,4 @@ this is another file!
 
 Ver = 2
 ver = 3
+ver = 6
