@@ -7,3 +7,5 @@ ver = 3
 ver = 6
 
 just merged, tagging on another change and commit to test
+Ver = 4
+ver = 7
