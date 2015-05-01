@@ -2,3 +2,5 @@ Here is a cool file.
 use it well.
 
 testing this in master branch
+
+ver = master2
