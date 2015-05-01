@@ -4,3 +4,6 @@ use it well.
 testing this in master branch
 
 ver = master2
+ver = 2
+ver = 3
+ver = 6

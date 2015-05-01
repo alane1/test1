@@ -2,3 +2,6 @@ this is another file!
 
 ver = master2
 ver = master5
+Ver = 2
+ver = 3
+ver = 6
